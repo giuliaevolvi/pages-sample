@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Giulia Evolvi site
 ---
 
 ## Welcome everyone to my beautiful site!
